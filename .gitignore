@@ -367,4 +367,7 @@ tags
 # Persistent undo
 [._]*.un~
 
+# Understand files
+cp2k.und/
+
 # End of https://www.gitignore.io/api/python,fortran,c,c++,cuda,emacs,vim,cmake
